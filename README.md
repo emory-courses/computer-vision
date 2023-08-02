@@ -16,4 +16,4 @@ The goal of computer vision is to compute properties of the three-dimensional wo
 
 [Syllabus](docs/syllabus.md)
 
-[Schedule](docs/schedule.md)
+[Schedule](https://docs.google.com/spreadsheets/d/1fgzdYqfnL_1Y7nTUSo3l4l1kaUjB9e-9C3BsOoIY8EI/edit?usp=sharing)
