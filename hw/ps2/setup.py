@@ -24,7 +24,7 @@ with open(path.join(here, "README.md"), encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="=Proj2",
+    name="Proj2",
     version="1.0.0",
     description="",
     long_description=long_description,
