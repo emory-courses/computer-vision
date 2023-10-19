@@ -1,0 +1,21 @@
+name: proj3
+channels:
+- pytorch
+- menpo
+- defaults
+- sepandhaghighi
+dependencies:
+- jupyter
+- matplotlib
+- python=3.6
+- scipy
+- opencv
+- pytorch-cpu
+- torchvision-cpu=0.2
+- pip
+- pytest
+- pip:
+  - visdom
+- pycm
+- pyyaml
+- Pillow=6.2
