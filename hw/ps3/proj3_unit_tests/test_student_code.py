@@ -4,7 +4,7 @@ import os
 sys.path.append(os.getcwd())
 import numpy as np
 import math
-from proj5_code import student_code
+from proj3_code import student_code
 
 
 def verify(function) -> str:

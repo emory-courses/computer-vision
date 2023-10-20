@@ -9,12 +9,12 @@ dependencies:
 - matplotlib
 - pip
 - pytest
-- python=3.6
+- python>=3.6
 - pytorch-cpu
-- torchvision-cpu=0.2
+- torchvision-cpu>=0.2
 - pyyaml
 - scipy
 - opencv
 - pycm
 - pytest
-- Pillow=6.2
+- Pillow>=6.2
