@@ -19,15 +19,13 @@
 
 ## Grading
 
-### CS 485
-* Problem Sets: 55%
-* Quizzes: 30%
-* Participation: 15%
-### CS 584
-* Problem Sets: 40%
-* Quizzes: 30%
-* Final Project: 25%
-* Participation: 5%
+### CS 485 and 584
+Problem Sets: 50%
+Quizzes: 30% 
+Participation: 20% - Coming to class and engaging in class. 
+
+### General
+Late submissions will be accepted within a one-week grace period; however, a grading penalty of 15% will be applied. No submissions will be accepted beyond the one-week grace period.
   
 Your work is governed by the [Emory Honor Code](http://catalog.college.emory.edu/academic/policies-regulations/honor-code.html). Honor code violation (e.g., copies from any source including your colleagues and internet sites) will be referred to the [Emory Honor Council](http://college.emory.edu/oue/current-students/honor-council.html).
 Excuses for exam absence/reschedule and other serious personal events (health, family, personal related, etc.) that affect course performance must be accompanied by a letter from the [Office of Undergraduate Education](http://college.emory.edu/home/administration/office/undergraduate/).
