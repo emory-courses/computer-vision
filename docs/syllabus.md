@@ -20,9 +20,9 @@
 ## Grading
 
 ### CS 485 and 584
-Problem Sets: 50%
-Quizzes: 30% 
-Participation: 20% - Coming to class and engaging in class. 
+* Problem Sets: 50%
+* Quizzes: 30% 
+* Participation: 20% - Coming to class and engaging in class. 
 
 ### General
 Late submissions will be accepted within a one-week grace period; however, a grading penalty of 15% will be applied. No submissions will be accepted beyond the one-week grace period.
